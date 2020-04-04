@@ -1,0 +1,204 @@
+@media only screen and (max-width:1200px)
+{
+}
+/* 768 to 1023 */
+@media only screen and (max-width:1023px)
+{
+    body
+    {
+        font-size: 18px;
+     }
+    section
+    {
+        padding:60px 0;
+    }
+    .long-copy
+    {
+    width:80%;
+    line-height:145%;
+    margin-left:10%;
+    }
+    .steps p
+    {
+        margin:0 2%;
+    }
+    .iphoneimage
+    {
+        width: 50%;
+    }
+
+    .main-nav
+    {
+    font-size: 18px;
+    list-style:none;
+    font-weight: 500;
+    }
+    .main nav li
+    {
+        margin:auto 0;
+    }
+    .logo
+    {
+        margin-right: 20px;
+        height:100px;
+    }
+    .main-nav li a:link,
+    .main-nav li a:visited
+    {
+      padding:0px;
+     }
+    .contact-form
+    {
+        width:80%;
+    }
+}
+/*481 to 767*/
+@media only screen and (max-width:767px)
+{
+    .col 
+    {
+        width:100% !important;
+    }
+    body
+    { 
+        font-size: 16px;
+    }
+    
+    .main-nav
+    {
+        display: none;
+    }
+    .menu
+    {
+        display: inline-block;
+    }
+    .menu i
+    {
+         color:#fff;
+    }
+    .main-nav
+    {
+        float:left;
+        margin-bottom: 4px;
+    }
+    .main-nav li
+    {
+        display: block;
+        margin-top: 10px;
+        font-size: 110%;
+    }
+    .main-nav li a:hover,
+    .main-nav li a:active{
+        border:0;
+        font-size: 100%;
+    }
+    .sticky .menu i
+    {
+        color: #000;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited
+    {
+        padding:10px 0;
+    }
+    section
+    {
+        padding:30px 0;
+    }
+    h1
+    {
+        margin-left: 25px;
+        font-size: 180%;
+    }
+    h2
+    {
+        font-size: 150%;
+    }
+    .row,
+    .section1
+    {
+        padding: 0 4%;
+    }
+    .log
+    {
+        font-size:60px;
+    }
+    .long-copy
+    {
+        width:100%;
+        margin-left:0;
+    }
+    .section-features
+    {
+        padding:5%;
+    }
+    .iphoneimage
+    {
+        width: 40%;
+    }
+    .steps-box:first-child
+    {
+        text-align: center;
+    }
+    .steps div
+    {
+        height:40px;
+        width:40px;
+        font-size: 120%;
+        padding: 4px;
+        margin-right: 15px;
+    }
+    .steps
+    {
+    margin-bottom: 20px;
+    }
+    .steps:last-of-type
+    {
+        margin-bottom: 20px;
+    }
+   
+}
+@media only screen and (max-width:480px)
+{
+    section
+    {
+        padding:25px 0;
+    }
+    .contact-form
+    {
+        width: 100%;
+    }
+    body
+    {
+        font-size:15px;
+    }
+    .btn:link,
+    .btn:visited
+    {
+        margin:20px 30px;
+        padding:10px 20px; 
+        margin-left:45px;
+    }
+     h1
+    {
+        font-size:170%;
+         padding:5px 20px;
+    }
+    .log
+    {
+        font-size:50px;
+    }
+    .logo
+    {
+        margin-left:15px; 
+    }
+    .section-form div
+    {
+    margin-bottom: 4px;
+    }
+    body
+    {
+        width: 100%;
+    }
+    
+}
