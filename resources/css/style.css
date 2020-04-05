@@ -561,3 +561,15 @@ footer p
     -webkit-animation-duration: 1s;
     animation-duration: 1s;
 }
+.menu ion-icon
+{
+    color: #fff;
+}
+.special ion-icon
+{
+    color:#f75e1a;
+}
+.sticky .menu ion-icon
+{
+    color:#000;
+}
