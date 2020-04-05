@@ -14,8 +14,6 @@ html,body
     text-rendering: optimizeLegibility;
     overflow-x: hidden;
     scroll-behavior: smooth;
-    width:100%;
-    overflow: hidden;
 }
 header
 {
