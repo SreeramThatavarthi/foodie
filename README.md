@@ -1,7 +1,5 @@
 # foodie
 
-<h3>Made With React and Firebase<h3>
-
 ### [Check it out here] 
 
 ## Overview 👀
@@ -11,4 +9,5 @@
 </p>
 
 - Foodie Website for a restaurant using front end web development
- [Check it out here]: https://sreeramthatavarthi.github.io/foodie/
+
+[Check it out here]: https://sreeramthatavarthi.github.io/foodie/
